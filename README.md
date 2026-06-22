@@ -27,11 +27,13 @@ Azure CLI
 
 ---
 Architecture Diagram
+Using Draw.io ive created a architecture diagram of the environment.
 
 <img width="961" height="701" alt="Architecture Diagram drawio" src="https://github.com/user-attachments/assets/0a5a6903-5da5-407f-8a87-782343c99736" />
 
 ---
 User Creation
+Lets go ahead and create some users
 
 <img width="1085" height="870" alt="Screenshot 2026-06-17 130811" src="https://github.com/user-attachments/assets/64947ec4-923d-4192-a357-70b372fbb348" />
 
